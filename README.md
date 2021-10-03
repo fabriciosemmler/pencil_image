@@ -1,5 +1,5 @@
 # pencil_image
-Python code that simulate a pencil sketch using a color image.
+Python code that simulates a pencil sketch using a color image.
 
 Exemple images:
 ![Tortoise](https://github.com/fabriciosemmler/pencil_image/blob/main/exemples/cágado.png?raw=true)
